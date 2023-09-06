@@ -175,13 +175,13 @@ line-height: 1.6rem;
     .settings:hover {
       box-shadow: 0 0 25px 0 rgba(20, 27, 201, 0.2);
       cursor: pointer;
-      background-image: linear-gradient(-45deg, #49d0da 0%, #210c59 50%);
+      background-image: linear-gradient(-45deg, #fd5c63 0%, #210c59 50%);
     }
     
     .privacy:hover {
       box-shadow: 0 0 25px 0 rgba(20, 27, 201, 0.2);
       cursor: pointer;
-      background-image: linear-gradient(-45deg, #5035ec 0%, #44a2f6 50%);
+      background-image: linear-gradient(-45deg, #fd5c63 0%, #44a2f6 50%);
     }
     
     .backups:hover {
